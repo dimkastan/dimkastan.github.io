@@ -1,6 +1,6 @@
 ## Welcome to my personal github blog
 
-### _Italic_ About this blog
+### _About this blog_
 
 In this blog I plan to share publicly some usefull projects, ideas, tutorials, notes etc. for Computer Vision and Machine Learning.
 Stay tuned!
