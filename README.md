@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my personal github blog
 
-You can use the [editor on GitHub](https://github.com/dimkastan/dimkastan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### _Italic_ About this blog
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this blog I plan to share publicly some usefull projects, ideas, tutorials, notes etc. for Computer Vision and Machine Learning.
+Stay tuned!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### About me
 
-# Header 1
-## Header 2
-### Header 3
+I was born in Athens in 1984. I received my B.Eng. in Electrical Engineer from T.E.I. of Patras (2005-2009) and M.Sc. degree in Electronics and Information Processing (2009-2011) from the Department of Physics, University of Patras, Greece. In May 2017, I received my PhD in the area of Computer Vision and Machine Learning from the Department of Physics, University of Patras, Greece, under the supervision of Prof. Spiros Fotopoulos. During my PhD I worked on Multi-level Machine Learning Methods for Activity Analysis/Recognition. My research interests include Machine Learning and Pattern Recognition for activity analysis and image understanding as well as learning feature representation method. I have also been working on the problem of HEp-2 cell classification. Since 2013 I also work at IridaLabs S.A., as and Software Engineer for Computer Vision and Machine Learning solutions mainly for embedded systems. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+ 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dimkastan/dimkastan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
