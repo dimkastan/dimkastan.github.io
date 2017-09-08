@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>/publication/parsimonious_inference/</loc>
+      <lastmod>2017-01-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -61,6 +70,15 @@
     
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/gait_grad_descriptors/</loc>
+      <lastmod>2016-12-14T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -131,8 +149,35 @@
     
     <url>
     
+      <loc>/publication/gait_using_kinect/</loc>
+      <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/hep-2_cell_ijait/</loc>
+      <lastmod>2014-05-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/hep-2cells_morpho_and_local_descriptors/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -158,8 +203,54 @@
     
     <url>
     
+      <loc>/publication/kinect_multiple_sclerosis/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/gait_kinect_dsp2013/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/hep2bibe_2013/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/hep2-bibe2012/</loc>
+      <lastmod>2012-01-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/0/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -171,14 +262,6 @@
       <loc>/publication_types/2/</loc>
       <lastmod>2017-10-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/gait_using_kinect/</loc>
     </url>
     
   
@@ -225,14 +308,6 @@
     
     <url>
     
-      <loc>/publication/hep-2_cell_ijait/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00+03:00</lastmod>
       <priority>0</priority>
@@ -246,22 +321,6 @@
       <loc>/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/parsimonious_inference/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/gait_grad_descriptors/</loc>
     </url>
     
   

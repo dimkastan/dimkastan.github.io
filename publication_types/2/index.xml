@@ -20,11 +20,38 @@
     </item>
     
     <item>
+      <title>Pose-based gait recognition with local gradient descriptors and hierarchically aggregated residuals</title>
+      <link>/publication/gait_grad_descriptors/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gait_grad_descriptors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gait based recognition via fusing information from Euclidean and Riemannian manifolds</title>
       <link>/publication/gait_rec_fuse_eucl_rieman/</link>
       <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/gait_rec_fuse_eucl_rieman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for gait-based recognition using Kinect</title>
+      <link>/publication/gait_using_kinect/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gait_using_kinect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HEp-2 Cell Classification Using Descriptors Fused into the Dissimilarity Space into the Dissimilarity Space</title>
+      <link>/publication/hep-2_cell_ijait/</link>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hep-2_cell_ijait/</guid>
       <description></description>
     </item>
     
@@ -43,33 +70,6 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>/publication/pose-based-action-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A framework for gait-based recognition using Kinect</title>
-      <link>/publication/gait_using_kinect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gait_using_kinect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HEp-2 Cell Classification Using Descriptors Fused into the Dissimilarity Space into the Dissimilarity Space</title>
-      <link>/publication/hep-2_cell_ijait/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/hep-2_cell_ijait/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pose-based gait recognition with local gradient descriptors and hierarchically aggregated residuals</title>
-      <link>/publication/gait_grad_descriptors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gait_grad_descriptors/</guid>
       <description></description>
     </item>
     
