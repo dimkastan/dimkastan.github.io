@@ -14,15 +14,6 @@
     
     <url>
     
-      <loc>/publication/erci-gait/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/vision-mapping_whiter_boockchapter/</loc>
       <lastmod>2017-08-30T00:00:00+00:00</lastmod>
     </url>
@@ -221,6 +212,15 @@
     
     <url>
     
+      <loc>/publication/erci-gait/</loc>
+      <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/gait_kinect_dsp2013/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -249,7 +249,7 @@
     <url>
     
       <loc>/publication_types/0/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-01-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -358,7 +358,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-01-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
