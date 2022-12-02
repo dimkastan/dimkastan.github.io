@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://dimkastan.github.io/sitemap.xml
