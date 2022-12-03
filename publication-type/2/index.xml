@@ -1,1 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2 | Academic</title><link>https://dimkastan.github.io/publication-type/2/</link><atom:link href="https://dimkastan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml"/><description>2</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate><image><url>https://dimkastan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>2</title><link>https://dimkastan.github.io/publication-type/2/</link></image><item><title>HEp-2 cell classification with Vector of Hierarchically Aggregated Residuals</title><link>https://dimkastan.github.io/publication/vhar_pat_rec/</link><pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/vhar_pat_rec/</guid><description/></item><item><title>Gait based recognition via fusing information from Euclidean and Riemannian manifolds</title><link>https://dimkastan.github.io/publication/gait_rec_fuse_eucl_rieman/</link><pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/gait_rec_fuse_eucl_rieman/</guid><description/></item><item><title>HEp-2 cells classification via sparse representation of textural features fused into dissimilarity space</title><link>https://dimkastan.github.io/publication/hep-2_cell_patrec_2014/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/hep-2_cell_patrec_2014/</guid><description/></item><item><title>Pose-based human action recognition via sparse representation in dissimilarity space</title><link>https://dimkastan.github.io/publication/pose-based-action-recognition/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/pose-based-action-recognition/</guid><description/></item><item><title>A framework for gait-based recognition using Kinect</title><link>https://dimkastan.github.io/publication/gait_using_kinect/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/gait_using_kinect/</guid><description/></item><item><title>HEp-2 Cell Classification Using Descriptors Fused into the Dissimilarity Space into the Dissimilarity Space</title><link>https://dimkastan.github.io/publication/hep-2_cell_ijait/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/hep-2_cell_ijait/</guid><description/></item><item><title>Pose-based gait recognition with local gradient descriptors and hierarchically aggregated residuals</title><link>https://dimkastan.github.io/publication/gait_grad_descriptors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/gait_grad_descriptors/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://dimkastan.github.io/publication-type/2/</link>
+      <atom:link href="https://dimkastan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimkastan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://dimkastan.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>HEp-2 cell classification with Vector of Hierarchically Aggregated Residuals</title>
+      <link>https://dimkastan.github.io/publication/vhar_pat_rec/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/vhar_pat_rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gait based recognition via fusing information from Euclidean and Riemannian manifolds</title>
+      <link>https://dimkastan.github.io/publication/gait_rec_fuse_eucl_rieman/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/gait_rec_fuse_eucl_rieman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HEp-2 cells classification via sparse representation of textural features fused into dissimilarity space</title>
+      <link>https://dimkastan.github.io/publication/hep-2_cell_patrec_2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/hep-2_cell_patrec_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose-based human action recognition via sparse representation in dissimilarity space</title>
+      <link>https://dimkastan.github.io/publication/pose-based-action-recognition/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/pose-based-action-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for gait-based recognition using Kinect</title>
+      <link>https://dimkastan.github.io/publication/gait_using_kinect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/gait_using_kinect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HEp-2 Cell Classification Using Descriptors Fused into the Dissimilarity Space into the Dissimilarity Space</title>
+      <link>https://dimkastan.github.io/publication/hep-2_cell_ijait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/hep-2_cell_ijait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose-based gait recognition with local gradient descriptors and hierarchically aggregated residuals</title>
+      <link>https://dimkastan.github.io/publication/gait_grad_descriptors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/gait_grad_descriptors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

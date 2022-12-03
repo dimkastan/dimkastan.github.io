@@ -1,59 +1,187 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academic</title><link>https://dimkastan.github.io/</link><atom:link href="https://dimkastan.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Academic</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://dimkastan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Academic</title><link>https://dimkastan.github.io/</link></image><item><title>Let's build things right (this time) mindset- Does it help at all</title><link>https://dimkastan.github.io/post/historic-recurrence-in-tech-teams/</link><pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/post/historic-recurrence-in-tech-teams/</guid><description>&lt;!-- ```python
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://dimkastan.github.io/</link>
+      <atom:link href="https://dimkastan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dimkastan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://dimkastan.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Let&#39;s build things right (this time) mindset-   Does it help at all</title>
+      <link>https://dimkastan.github.io/post/historic-recurrence-in-tech-teams/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/post/historic-recurrence-in-tech-teams/</guid>
+      <description>&lt;!-- ```python
 import libr
-print('hello')
-``` -->
-&lt;h2 id="overview">Overview&lt;/h2>
-&lt;p>&lt;em>A common belief in (tech) teams working on wicked problems is that they start the project with some wrong choices or missing information. Whilst this is very common in complext problems, teams always tend to &amp;lsquo;blame&amp;rsquo; the first steps of the project as opposed to searching for adaptation.When teams stick on this mindset, they tend to repeat the same mistakes over and over again and when they retrospect the see only the mistakes or wrong choices made in the beggining and overlook the importance to learn and adapt. This article, presents this mindset as a historical recurrence trap and suggests some methods that will (hopefully) help teams spot and escape from it.&lt;/em>&lt;/p>
-&lt;h2 id="introduction">introduction&lt;/h2>
-&lt;p>Mark Twein once said, “History never repeats itself, but it does often rhyme”. In school we were taught that people should learn from history, meaning that humans need to learn from past mistakes. However, people really struggle to follow this rule of thumb- and there is a reason for that. Indeed, apart from politics and sociology, people face the same challenge in everyday lives meaning, family, work and personal relationships. In this short article, I will focus on the “Historic recurrence” effect in technological teams.&lt;/p>
-&lt;h2 id="i-classfa-fa-rocket-fa-appear-fa-1x-stylecolor-grayi-problem-description">&lt;i class="fa fa-rocket fa-appear fa-1x" style="color: gray">&lt;/i> Problem description&lt;/h2>
-&lt;p>A new project is about to commence and depending of the selected way-of-work the team is somehow structured. While discussing the what, the how and the when, one of the most used phrases noticed amongst peers is, namely, the “let’s build it right this time” or “let’s organize it better”, “let’s sell it better”, “let’s design it better“, following the “Let’s &lt;verb> it better” structure. Ideally, it should stop there, the statement should be followed by the “do it right” solution and the project should run within budget, time and scope leaving the end user/customer satisfied. However, it seems that this phrase is quite vague depicting lack of structure, processes, or even experience. Let’s dig a little bit into this phrase.&lt;/p>
-&lt;h2 id="i-classfa-fa-magnifying-glass-stylecolor-grayi-analysis">&lt;i class="fa fa-magnifying-glass" style="color: gray">&lt;/i> Analysis&lt;/h2>
-&lt;p>This statement should not be underestimated. It is a strong indicator that some team members were not satisfied by the way they worked in the past or the result of their work. What is difficult to understand is that this can vary across team members according to their objectives. For example, business people try to optimize the outcome within the given budget. Project managers try to control the budget, scope and time while development teams try to generate as much value as possible for the customer with the minimal possible technical debt. These teams need to find a balance and it is not guaranteed at all that all of them will be satisfied at the same time.
+print(&#39;hello&#39;)
+``` --&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;A common belief in (tech) teams working on wicked problems is that they start the project with some wrong choices or missing information. Whilst this is very common in complext problems, teams always tend to &amp;lsquo;blame&amp;rsquo; the first steps of the project as opposed to searching for adaptation.When teams stick on this mindset, they tend to repeat the same mistakes over and over again and when they retrospect the see only the mistakes or wrong choices made in the beggining and overlook the importance to learn and adapt. This article, presents this mindset as a historical recurrence trap and suggests some methods that will (hopefully) help teams spot and escape from it.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;introduction&lt;/h2&gt;
+&lt;p&gt;Mark Twein once said, “History never repeats itself, but it does often rhyme”. In school we were taught that people should learn from history, meaning that humans need to learn from past mistakes. However, people really struggle to follow this rule of thumb- and there is a reason for that. Indeed, apart from politics and sociology, people face the same challenge in everyday lives meaning, family, work and personal relationships. In this short article, I will focus on the “Historic recurrence” effect in technological teams.&lt;/p&gt;
+&lt;h2 id=&#34;i-classfa-fa-rocket-fa-appear-fa-1x-stylecolor-grayi-problem-description&#34;&gt;&lt;i class=&#34;fa fa-rocket fa-appear fa-1x&#34; style=&#34;color: gray&#34;&gt;&lt;/i&gt; Problem description&lt;/h2&gt;
+&lt;p&gt;A new project is about to commence and depending of the selected way-of-work the team is somehow structured. While discussing the what, the how and the when, one of the most used phrases noticed amongst peers is, namely, the “let’s build it right this time” or “let’s organize it better”, “let’s sell it better”, “let’s design it better“, following the “Let’s &lt;verb&gt; it better” structure. Ideally, it should stop there, the statement should be followed by the “do it right” solution and the project should run within budget, time and scope leaving the end user/customer satisfied. However, it seems that this phrase is quite vague depicting lack of structure, processes, or even experience. Let’s dig a little bit into this phrase.&lt;/p&gt;
+&lt;h2 id=&#34;i-classfa-fa-magnifying-glass-stylecolor-grayi-analysis&#34;&gt;&lt;i class=&#34;fa fa-magnifying-glass&#34; style=&#34;color: gray&#34;&gt;&lt;/i&gt; Analysis&lt;/h2&gt;
+&lt;p&gt;This statement should not be underestimated. It is a strong indicator that some team members were not satisfied by the way they worked in the past or the result of their work. What is difficult to understand is that this can vary across team members according to their objectives. For example, business people try to optimize the outcome within the given budget. Project managers try to control the budget, scope and time while development teams try to generate as much value as possible for the customer with the minimal possible technical debt. These teams need to find a balance and it is not guaranteed at all that all of them will be satisfied at the same time.
 For business people, this statement could refer to their disappointment regarding budget and revenue. Project managers could use it to highlight to the team the importance of providing more “accurate” estimations. Finally the development teams could refer to the technical debt as well as prolonged latencies in getting feedback from the customers.
-However, teams should comprehend that they are trying to jointly optimize different objectives. This is very common in Machine learning tasks formulated as multi-task and/or multi-objective problems or constraint optimization problems, where an objective is optimized subject to several predefined criteria. As Machine Learning teaches us, we are always responsible for what we choose to optimize against as well as how we evaluate out results and the tradeoffs within. For example, you might have the right objective but the training data might not be representative of the problem or we might be interested in reducing False Positives in favor of increasing the False Negative Rate.&lt;/p>
-&lt;h2 id="i-classfa-fa-gears-fa-spin-fa-1x-stylecolor-grayi--what-you-can-do">&lt;i class="fa fa-gears fa-spin fa-1x" style="color: gray">&lt;/i> What you can do?&lt;/h2>
-&lt;p>Here are some suggestions to help your team be better prepared and well-structured next time:&lt;/p>
-&lt;ul>
-&lt;li>Unlearn&lt;/li>
-&lt;/ul>
-&lt;p>Within complex projects/products it very common that more is unknown than known. Agile methodologies cope with complexity by iteratively working on solving the problem by taking one small step at a time and checking both the output and when to go next (review) as well as the way teams, that adopt them, work (retrospective). In this manner, it often takes a team to unlearn in order to drop the tools used to work until now and build new strategies.&lt;/p>
-&lt;ul>
-&lt;li>Avoid the mount stupid&lt;/li>
-&lt;/ul>
-&lt;p>The well known Dunning-Kruger effect tells us that oftenly people tend to overestimate their abilities leading to poor decisions and those decisions are later transformed into project failures, technical debt and/or customer dissatisfaction.&lt;/p>
-&lt;ul>
-&lt;li>Engage people with range&lt;/li>
-&lt;/ul>
-&lt;p>Todays wicked problems require generalists. While specialists in a team can do the job optimally, generalists can also help to do the right job.&lt;/p>
-&lt;ul>
-&lt;li>Hear all the voices: Imposter syndrome&lt;/li>
-&lt;/ul>
-&lt;p>After working for many years, you realize that things you do actually work and that your ideas are usually applicable. Lot’s of people however, believe that this is due to luck and they keep believing that they do not hold any expertise amongst their peers. In a similar manner, some juniors might have a good idea or a proposal on how to implement an idea, but they may hold back thinking that they have to wait until they “grow up”. This is known as the imposter syndrome, so a team needs to learn to also take onto account people that are not always heard in a discussion.&lt;/p>
-&lt;ul>
-&lt;li>Define goals and objectives.&lt;/li>
-&lt;/ul>
-&lt;p>This can include the vision and key deliverables but it can go beyond that. A goal-condition formulation can be used in deliverables where the acceptance criteria should be clearly defined. Therefore, acceptance criteria describe the sweet spot between the business, the project and the development teams facilitating early estimations and fruitful discussions.&lt;/p>
-&lt;ul>
-&lt;li>Define and revisit priorities&lt;/li>
-&lt;/ul>
-&lt;p>As Heraclitus said “The only constant is change”, and during a project lifecycle, priorities are no exception. Clearly communicating the effects of these changes alongside with the strategy will help the teams to align to a common goal.&lt;/p>
-&lt;ul>
-&lt;li>Decide what to measure&lt;/li>
-&lt;/ul>
-&lt;p>A team has the ability to measure anything is considered valuable to them, not only in the current project but also in future ones. For example a development team can measure the technical debt, the project management can measure the planned value.&lt;/p>
-&lt;ul>
-&lt;li>Ask team members to propose new methods&lt;/li>
-&lt;/ul>
-&lt;p>Typically, this should take place in retrospectives. For scrum teams this can happen even in a weekly basis and it can be embedded in the Definition of Done.&lt;/p>
-&lt;ul>
-&lt;li>Processes&lt;/li>
-&lt;/ul>
-&lt;p>If there is a flaw in a process make an attempt to fix it. Keep notes each time an issue raises during the project’s lifecycle and try to find a way to fix it within processes. The most important issues with the highest frequency of appearance can be prioritized.&lt;/p>
-&lt;ul>
-&lt;li>Select a framework that will guide you&lt;/li>
-&lt;/ul>
-&lt;p>Project Management techniques will help your team to navigate through the various tasks they need to implement while keeping their effectiveness. Those techniques will also help in coordinating, recording and evaluating project activities minimizing that way the chance of a derailed roadmap.&lt;/p>
-&lt;h2 id="epilogue">Epilogue&lt;/h2>
-&lt;p>As history teaches us, even with past experiences and large amounts of data, it is not always easy to make wise decisions. Whilst most of the times relying on data and being flexible to adjust as you learn more will help you and your team to succeed, the complexity and the uncertainty can still affect your decisions and therefore your results. In case something like happen, you should try to learn as much as possible from this new experience and generate as much data as possible for the next time you will face a similar challenge. This will ultimately change the “let’s build things right this time” to “are we going to achieve the required goal with the current choices we make? ”&lt;/p>
-&lt;p>Hope this helps!&lt;/p></description></item><item><title>HEp-2 cell classification with Vector of Hierarchically Aggregated Residuals</title><link>https://dimkastan.github.io/publication/vhar_pat_rec/</link><pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/vhar_pat_rec/</guid><description/></item><item><title>KAD - An Intelligent System for Categorizing and Assessing the State of Patients with Multiple Sclerosis</title><link>https://dimkastan.github.io/publication/erci-gait/</link><pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/erci-gait/</guid><description/></item><item><title>Gait based recognition via fusing information from Euclidean and Riemannian manifolds</title><link>https://dimkastan.github.io/publication/gait_rec_fuse_eucl_rieman/</link><pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/gait_rec_fuse_eucl_rieman/</guid><description/></item><item><title>HEp-2 cells classification via sparse representation of textural features fused into dissimilarity space</title><link>https://dimkastan.github.io/publication/hep-2_cell_patrec_2014/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/hep-2_cell_patrec_2014/</guid><description/></item><item><title>Pose-based human action recognition via sparse representation in dissimilarity space</title><link>https://dimkastan.github.io/publication/pose-based-action-recognition/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/pose-based-action-recognition/</guid><description/></item><item><title/><link>https://dimkastan.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/admin/config.yml</guid><description/></item><item><title/><link>https://dimkastan.github.io/publication/conference-paper/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/conference-paper/</guid><description/></item><item><title/><link>https://dimkastan.github.io/publication/journal-article/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/journal-article/</guid><description/></item><item><title/><link>https://dimkastan.github.io/publication/preprint/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/preprint/</guid><description/></item><item><title>A framework for gait-based recognition using Kinect</title><link>https://dimkastan.github.io/publication/gait_using_kinect/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/gait_using_kinect/</guid><description/></item><item><title>HEp-2 Cell Classification Using Descriptors Fused into the Dissimilarity Space into the Dissimilarity Space</title><link>https://dimkastan.github.io/publication/hep-2_cell_ijait/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/hep-2_cell_ijait/</guid><description/></item><item><title>Parsimonious Inference on Convolutional Neural Networks: Learning and applying on-line kernel activation rules</title><link>https://dimkastan.github.io/publication/parsimonious_inference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/parsimonious_inference/</guid><description/></item><item><title>Pose-based gait recognition with local gradient descriptors and hierarchically aggregated residuals</title><link>https://dimkastan.github.io/publication/gait_grad_descriptors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/publication/gait_grad_descriptors/</guid><description/></item></channel></rss>
+However, teams should comprehend that they are trying to jointly optimize different objectives. This is very common in Machine learning tasks formulated as multi-task and/or multi-objective problems or constraint optimization problems, where an objective is optimized subject to several predefined criteria. As Machine Learning teaches us, we are always responsible for what we choose to optimize against as well as how we evaluate out results and the tradeoffs within. For example, you might have the right objective but the training data might not be representative of the problem or we might be interested in reducing False Positives in favor of increasing the False Negative Rate.&lt;/p&gt;
+&lt;h2 id=&#34;i-classfa-fa-gears-fa-spin-fa-1x-stylecolor-grayi--what-you-can-do&#34;&gt;&lt;i class=&#34;fa fa-gears fa-spin fa-1x&#34; style=&#34;color: gray&#34;&gt;&lt;/i&gt;  What you can do?&lt;/h2&gt;
+&lt;p&gt;Here are some suggestions to help your team be better prepared and well-structured next time:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unlearn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Within complex projects/products it very common that more is unknown than known. Agile methodologies cope with complexity by iteratively working on solving the problem by taking one small step at a time and checking both the output and when to go next (review) as well as the way teams, that adopt them, work (retrospective). In this manner, it often takes a team to unlearn in order to drop the tools used to work until now and build new strategies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid the mount stupid&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The well known Dunning-Kruger effect tells us that oftenly people tend to overestimate their abilities leading to poor decisions and those decisions are later transformed into project failures, technical debt and/or customer dissatisfaction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Engage people with range&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Todays wicked problems require generalists. While specialists in a team can do the job optimally, generalists can also help to do the right job.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hear all the voices: Imposter syndrome&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After working for many years, you realize that things you do actually work and that your ideas are usually applicable. Lot’s of people however, believe that this is due to luck and they keep believing that they do not hold any expertise amongst their peers. In a similar manner, some juniors might have a good idea or a proposal on how to implement an idea, but they may hold back thinking that they have to wait until they “grow up”. This is known as the imposter syndrome, so a team needs to learn to also take onto account people that are not always heard in a discussion.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define goals and objectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This can include the vision and key deliverables but it can go beyond that. A goal-condition formulation can be used in deliverables where the acceptance criteria should be clearly defined. Therefore, acceptance criteria describe the sweet spot between the business, the project and the development teams facilitating early estimations and fruitful discussions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define and revisit priorities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As Heraclitus said “The only constant is change”, and during a project lifecycle, priorities are no exception.  Clearly communicating the effects of these changes alongside with the strategy will help the teams to align to a common goal.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Decide what to measure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A team has the ability to measure anything is considered valuable to them, not only in the current project but also in future ones. For example a development team can measure the technical debt, the project management can measure the planned value.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ask team members to propose new methods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Typically, this should take place in retrospectives. For scrum teams this can happen even in a weekly basis and it can be embedded in the Definition of Done.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Processes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If there is a flaw in a process make an attempt to fix it. Keep notes each time an issue raises during the project’s lifecycle and try to find a way to fix it within processes. The most important issues with the highest frequency of appearance can be prioritized.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Select a framework that will guide you&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Project Management techniques will help your team to navigate through the various tasks they need to implement while keeping their effectiveness. Those techniques will also help in coordinating, recording and evaluating project activities minimizing that way the chance of a derailed roadmap.&lt;/p&gt;
+&lt;h2 id=&#34;epilogue&#34;&gt;Epilogue&lt;/h2&gt;
+&lt;p&gt;As history teaches us, even with past experiences and large amounts of data, it is not always easy to make wise decisions. Whilst most of the times relying on data and being flexible to adjust as you learn more will help you and your team to succeed, the complexity and the uncertainty can still affect your decisions and therefore your results. In case something like happen, you should try to learn as much as possible from this new experience and generate as much data as possible for the next time you will face a similar challenge. This will ultimately change the “let’s build things right this time” to “are we going to achieve the required goal with the current choices we make? ”&lt;/p&gt;
+&lt;p&gt;Hope this helps!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HEp-2 cell classification with Vector of Hierarchically Aggregated Residuals</title>
+      <link>https://dimkastan.github.io/publication/vhar_pat_rec/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/vhar_pat_rec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KAD - An Intelligent System for Categorizing and Assessing the State of Patients with Multiple Sclerosis</title>
+      <link>https://dimkastan.github.io/publication/erci-gait/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/erci-gait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gait based recognition via fusing information from Euclidean and Riemannian manifolds</title>
+      <link>https://dimkastan.github.io/publication/gait_rec_fuse_eucl_rieman/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/gait_rec_fuse_eucl_rieman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HEp-2 cells classification via sparse representation of textural features fused into dissimilarity space</title>
+      <link>https://dimkastan.github.io/publication/hep-2_cell_patrec_2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/hep-2_cell_patrec_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose-based human action recognition via sparse representation in dissimilarity space</title>
+      <link>https://dimkastan.github.io/publication/pose-based-action-recognition/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/pose-based-action-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dimkastan.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dimkastan.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dimkastan.github.io/publication/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dimkastan.github.io/publication/preprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for gait-based recognition using Kinect</title>
+      <link>https://dimkastan.github.io/publication/gait_using_kinect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/gait_using_kinect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HEp-2 Cell Classification Using Descriptors Fused into the Dissimilarity Space into the Dissimilarity Space</title>
+      <link>https://dimkastan.github.io/publication/hep-2_cell_ijait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/hep-2_cell_ijait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parsimonious Inference on Convolutional Neural Networks: Learning and applying on-line kernel activation rules</title>
+      <link>https://dimkastan.github.io/publication/parsimonious_inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/parsimonious_inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose-based gait recognition with local gradient descriptors and hierarchically aggregated residuals</title>
+      <link>https://dimkastan.github.io/publication/gait_grad_descriptors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dimkastan.github.io/publication/gait_grad_descriptors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
