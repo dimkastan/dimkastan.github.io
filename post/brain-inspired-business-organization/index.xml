@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Academic</title><link>https://dimkastan.github.io/post/brain-inspired-business-organization/</link><atom:link href="https://dimkastan.github.io/post/brain-inspired-business-organization/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://dimkastan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://dimkastan.github.io/post/brain-inspired-business-organization/</link></image><item><title>Brain inspired business organization structure and operations</title><link>https://dimkastan.github.io/post/brain-inspired-business-organization/</link><pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/post/brain-inspired-business-organization/</guid><description>&lt;!-- ```python
+import libr
+print('hello')
+``` -->
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>&lt;em>Scientists are known for their ability of transfering concepts from one domain to another. This phenomenon follows the principle that nature is built on some very common princinples. Additionally, as human beings we tend to immitate nature- including biological organisms. For example, aeronautical engineers used concepts observed in bird spiecies to design aircrafts. Machine learning engineers are inspired by human brains and their ability to learn from examples. This article provides a brain inspired business organization and operation analogy, hoping that will help teams understand some fundamental concepts immanent to a organ that is designed to learn, develop, adapt, act, visualize and imagine! &lt;/em>&lt;/p>
+&lt;h1 id="brain-inspired-business-organization-structure-and-operations">Brain inspired business organization structure and operations&lt;/h1>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Human brain is a complex organ responsible for coordinating our body functions and maintaining a status of the self amongst other tasks. During the wake state, our brain perceives information from the environment and creates representations of the word, develops new skills that are vital for our surviving and important for every interaction with the outer world. Neuroscientists are constantly unfolding the knowledge around brain functionality which despite important for the neuroscience field is didactic and source of inspiration for other scientific fields. A characteristic example is the area of Machine Learning where a system tries to imitate the ability of a human brain to learn feature feature mappings between domains given some examples- usually accompanied with a supervisory signals. In the early days Sparse Representations were imitating the ability of the visual cortex to encode visual information while more recently, deep learning methods try to replicate brain’s ability to build hierarchical representations in a simplified digital model.
+In this article, I am presenting the organization structure of a business from a brain inspired perspective. Human brains evolve, visualize, learn, create structures, create data processing channels, store information while they try to reduce the energy consumption by optimizing structures that support common activities. Similarly, a business is evolving, learns how to adapt to the market, creates structures, dedicated units to perform specific actions, automates processes and changes it’s structure over time. It is therefore obvious that a business can benefit by understanding or relating its substance with that of a human brain.&lt;/p>
+&lt;h2 id="analogy">Analogy&lt;/h2>
+&lt;p>Human brains receive information from various sensors. These sensors are naturally limited to gather specific information and the brain creates meaningful representations under several objectives. For a specific period, the human brain matures, creating more complex structures reaching at a plateau at some point. Then, these structures are optimized to minimize energy consumption, however the journey does not stop there. New memories come over, new skills are developed and different parts of the brain can start contributing in different tasks over time.&lt;/p>
+&lt;p>In a similar manner a businesses mature, develop new skills, create a representation of the world- as it is perceived- and change their structure. Businesses, collect information and make steps based on an internal representation of the actual world (e.g. market).&lt;/p>
+&lt;p>From a brain inspired business organization analogy, it is evident that:&lt;/p>
+&lt;ul>
+&lt;li>As long as the business grow, its structure will be subject to change&lt;/li>
+&lt;li>A business organizationsneeds to optimize and create strong connections&lt;/li>
+&lt;li>Parts of a business might need to change roles/functions&lt;/li>
+&lt;li>Learning new skills is mandatory&lt;/li>
+&lt;li>business organizations sense only what they observe Be aware that there is always missing information&lt;/li>
+&lt;/ul>
+&lt;h2 id="be-aware-of-the-level-of-detail-needed">Be aware of the level of detail needed&lt;/h2>
+&lt;p>It is very common for people to believe that they observe their world around them in great detail. Scientific experiments have shown however, that the humans see in a very abstract manner. To understand that try to sketch a one dollar or euro. This is a great example showcasing that the level of detail needed to perform a task is not always very fine-grained.
+Businesses organizations need to provide the least amount of details in order to avoid an overflow of information which might hide what’s important or affect information from other topics to be observed.&lt;/p>
+&lt;h2 id="organization-plasticity">Organization Plasticity&lt;/h2>
+&lt;p>Businesse organizations should be agile and flexible in order to survive. Of vital importance is to have departments that can gradually shift to a different specialization by learning/developing new skills. In this manner, existing resources are reused and further benefit by transferring concepts from different areas of expertise.&lt;/p>
+&lt;h2 id="on-making-decisions--while-avoiding-illusions">On making decisions- while avoiding illusions&lt;/h2>
+&lt;p>Humans make decisions every in instance. They control they body, validate they optical, acoustic and other senses, predict, act and repeat. However, sometimes, humans are not seeing or not hearing. Additionally, it can be the case that the visual and the acoustic signals disagree or that the signals are limited to actually observe what is happening.
+Magicians are aware of these shortcomings to entertain people with tricks and illusions. For a business however, it is important to take decisions while minimizing wrong or misleading interpretations. Fusing information, or validating, from multiple sources can help on that (e.g. didn’t see it but I heard it). Additionally, in case of brain damage, wrong signals arrive or signals are not reaching the target. Business should develop the tools to detect these “damages” by running some diagnostics.&lt;/p>
+&lt;p>Epilogue and suggestions&lt;/p>
+&lt;p>Nature always inspires us. In science it is very common to transfer concepts from one domain to another and in this manner, we can always find analogies. Analogies will help us to dive deeper to the notion and will ignite our imagination.&lt;/p>
+&lt;p>Below you can find some suggestions that you can apply at your organization.&lt;/p>
+&lt;ul>
+&lt;li>Business organizations need to decide how they will create a representation of the market (outer world). This can include market, the technology, the economy and other trends,&lt;/li>
+&lt;li>Use all possible ways to interact with the market. Different departments like sales, growth, engineer, finance working in parallel can give a better understanding of what is really happening&lt;/li>
+&lt;li>A company needs different operational modes. Some things need to run fast, without a lot of thinking, while others slow, engaging more ‘units’ and effort. The fast and slow modes can make big difference so an organization needs to determine the modes/follow a process&lt;/li>
+&lt;li>Organizations are limited in terms of sensing and capacity. To get the most of an organization, it’s structure needs to be optimized and the people within should have strong communication channels&lt;/li>
+&lt;li>Complex tasks need multiple departments/units to collaborate. The more often you do that the more efficient it will be (e.g. hand-eye coordination)&lt;/li>
+&lt;li>Organization should invest in specialization of repetitive functionalities and long term functionalities&lt;/li>
+&lt;li>Pursue detail when really needed. Always ask this within your team: How does knowing more details about A will help me solve B? In machine learning there is the notion of early stop….&lt;/li>
+&lt;li>When to change? If you get a signal that resources are spent without results that means that you need another structure, not more resources!&lt;/li>
+&lt;li>Search for meaning! This will fuel the teams within organization maintain their activity and pace!&lt;/li>
+&lt;li>Understand an map the operations within an organization.
+&lt;ul>
+&lt;li>How long does it take to have a signal received from sensor 1 (e.g. customer feedback) until it reaches the product manager and then how follow up actions reach the engineering team or upper management?&lt;/li>
+&lt;li>Flattening the structure/communication channels can improve the latency but it has to be ensured that only the signals reach to the right destination&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Hope that this will help you better think of your business organization!&lt;/p></description></item></channel></rss>
