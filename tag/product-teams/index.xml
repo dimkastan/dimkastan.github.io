@@ -22,8 +22,9 @@ In this article, I am presenting the organization structure of a business from a
 &lt;h2 id="be-aware-of-the-level-of-detail-needed">Be aware of the level of detail needed&lt;/h2>
 &lt;p>It is very common for people to believe that they observe their world around them in great detail. Scientific experiments have shown however, that the humans see in a very abstract manner. To understand that try to sketch a one dollar or euro. This is a great example showcasing that the level of detail needed to perform a task is not always very fine-grained.
 Businesses organizations need to provide the least amount of details in order to avoid an overflow of information which might hide what’s important or affect information from other topics to be observed.&lt;/p>
-&lt;h2 id="organization-plasticity">Organization Plasticity&lt;/h2>
-&lt;p>Businesse organizations should be agile and flexible in order to survive. Of vital importance is to have departments that can gradually shift to a different specialization by learning/developing new skills. In this manner, existing resources are reused and further benefit by transferring concepts from different areas of expertise.&lt;/p>
+&lt;h2 id="organization-plasticity-and-catastrophic-forgeting">Organization Plasticity and catastrophic forgeting&lt;/h2>
+&lt;p>Businesse organizations should be agile and flexible in order to survive. Of vital importance is to have departments that can gradually shift to a different specialization by learning/developing new skills. In this manner, existing resources are reused and further benefit by transferring concepts from different areas of expertise.
+Also be aware that once new tasks are learnt, old will gradually fade out in favor of new skills and memories. Therefore, organization plasticity should be strategically orchestrated.&lt;/p>
 &lt;h2 id="on-making-decisions--while-avoiding-illusions">On making decisions- while avoiding illusions&lt;/h2>
 &lt;p>Humans make decisions every in instance. They control they body, validate they optical, acoustic and other senses, predict, act and repeat. However, sometimes, humans are not seeing or not hearing. Additionally, it can be the case that the visual and the acoustic signals disagree or that the signals are limited to actually observe what is happening.
 Magicians are aware of these shortcomings to entertain people with tricks and illusions. For a business however, it is important to take decisions while minimizing wrong or misleading interpretations. Fusing information, or validating, from multiple sources can help on that (e.g. didn’t see it but I heard it). Additionally, in case of brain damage, wrong signals arrive or signals are not reaching the target. Business should develop the tools to detect these “damages” by running some diagnostics.&lt;/p>
@@ -37,9 +38,10 @@ Magicians are aware of these shortcomings to entertain people with tricks and il
 &lt;li>Organizations are limited in terms of sensing and capacity. To get the most of an organization, it’s structure needs to be optimized and the people within should have strong communication channels&lt;/li>
 &lt;li>Complex tasks need multiple departments/units to collaborate. The more often you do that the more efficient it will be (e.g. hand-eye coordination)&lt;/li>
 &lt;li>Organization should invest in specialization of repetitive functionalities and long term functionalities&lt;/li>
-&lt;li>Pursue detail when really needed. Always ask this within your team: How does knowing more details about A will help me solve B? In machine learning there is the notion of early stop….&lt;/li>
+&lt;li>Pursue detail when really needed. Always ask this within your team: How does knowing more details about A will help me solve B? In machine learning there is the notion of early stop.&lt;/li>
 &lt;li>When to change? If you get a signal that resources are spent without results that means that you need another structure, not more resources!&lt;/li>
 &lt;li>Search for meaning! This will fuel the teams within organization maintain their activity and pace!&lt;/li>
+&lt;li>Realize that most information is not observable.&lt;/li>
 &lt;li>Understand an map the operations within an organization.
 &lt;ul>
 &lt;li>How long does it take to have a signal received from sensor 1 (e.g. customer feedback) until it reaches the product manager and then how follow up actions reach the engineering team or upper management?&lt;/li>
