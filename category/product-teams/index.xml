@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Product Teams | Academic</title><link>https://dimkastan.github.io/category/product-teams/</link><atom:link href="https://dimkastan.github.io/category/product-teams/index.xml" rel="self" type="application/rss+xml"/><description>Product Teams</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://dimkastan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Product Teams</title><link>https://dimkastan.github.io/category/product-teams/</link></image><item><title>Brain inspired business organization structure and operations</title><link>https://dimkastan.github.io/post/brain-inspired-business-organization/</link><pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/post/brain-inspired-business-organization/</guid><description>&lt;!-- ```python
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Product Teams | Academic</title><link>https://dimkastan.github.io/category/product-teams/</link><atom:link href="https://dimkastan.github.io/category/product-teams/index.xml" rel="self" type="application/rss+xml"/><description>Product Teams</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://dimkastan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Product Teams</title><link>https://dimkastan.github.io/category/product-teams/</link></image><item><title>Endless development cycles with Agile and how to avoid them</title><link>https://dimkastan.github.io/post/endless-development-cycle-in-agile-teams/</link><pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/post/endless-development-cycle-in-agile-teams/</guid><description>&lt;!-- ```python
+import libr
+print('hello')
+-->
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>&lt;em>Some agile teams are facing an endless development cycle. This is caused mainly by two types of stakeholders and customers. Those who are sticked to traditional waterfall methods or by those that misinterpret the agile approach in a way that they try to use it as a vehicle for continuous new product development. This article presents this commonly faced problems and some health check and suggestions to help teams for teams early detect them&lt;/em>&lt;/p>
+&lt;h2 id="problem-description">Problem description&lt;/h2>
+&lt;p>While Agile provides an iterative approach for project management, promoting change, collaboration, adaptive planning, and flexibility in responses, often it is misused as a non-ending sprint loop. In principle agile methodologies like Scrum, clearly define that at every sprint, the team is building a potentially releasable increment. In this manner, the team, while in a short term, is delivering value to the customer. However, many stakeholders or customers that are sticked to the traditional project management, fail to actively participate in this iterative development approach.&lt;/p>
+&lt;h2 id="symptoms">Symptoms&lt;/h2>
+&lt;p>Here are two main symptoms that are usually noticed across agile teams.&lt;/p>
+&lt;ul>
+&lt;li>Stakeholders waiting for something “complete” at every sprint to move on.
+It has to be very clear that this will never happen. Each sprint ensures that a small increment is built- and potentially released. Even if that happens, that means that either the product was too simple, or that something is really missing. Here is crucial to elicitate feedback from the stakeholders and feedback from actual releases.&lt;/li>
+&lt;li>Stakeholders never stop asking for improvements and introduce new features/products
+There is also the trap of continuously asking for new features or even changing the specification. While this is normal as new features naturally arise in agile development, the team has to acknowledge that new features should arise if and only if they are mandatory in order to address the defined objective. Otherwise, customers/stakeholders will always raise the bar by hiding behind the “deliver value to the customer” excuse.&lt;/li>
+&lt;/ul>
+&lt;h2 id="proposed-actions">Proposed actions&lt;/h2>
+&lt;p>Agile, and in particular Scrum is based on the pillars of Transparency, Inspection and Adaptation. If followed thoroughly all parties will benefit by the flexibility provided by the framework. Here are some recommendations/ health-checks for teams following the Agile development methodology&lt;/p>
+&lt;ul>
+&lt;li>Make sure that your increments reach the real customers&lt;/li>
+&lt;li>Don’t delay releases if and only if the concern is expressed by some stackeholders, team members&lt;/li>
+&lt;li>If someone is causing the team to procrastinate the release try to understand what are his/hers concerns&lt;/li>
+&lt;li>Agile applies for the whole product. If one (sub) team is using different approach make sure this is not intervening to the agile process&lt;/li>
+&lt;li>Don’t judge agile development cycles with a traditional project management perspective&lt;/li>
+&lt;li>Discovery is part of progress.&lt;/li>
+&lt;li>If the team is not delivering something useful, try to communicate that in the review&lt;/li>
+&lt;li>Ask the team if the increment is providing new features o&lt;/li>
+&lt;li>Check the acceptance criteria- if need to update to maximize value make sure that this is not by adding a new feature&lt;/li>
+&lt;/ul>
+&lt;p>Hope this will help you in your agile journey!&lt;/p></description></item><item><title>Brain inspired business organization structure and operations</title><link>https://dimkastan.github.io/post/brain-inspired-business-organization/</link><pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate><guid>https://dimkastan.github.io/post/brain-inspired-business-organization/</guid><description>&lt;!-- ```python
 import libr
 print('hello')
 ``` -->
